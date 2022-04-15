@@ -1,1 +1,1 @@
-code
+My server code can be found in the folder named “code”. Part 2 code is "new_count_len.py" and part 4 code is "part4.py".
