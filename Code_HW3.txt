@@ -1,2 +1,1 @@
-My server code can be found in the folder named “homework3_code”. The code for step 2 of the homework are in a Python file called "new_count_len.py" and 
-the code for step 4 of the homework are in a Python file called "part4.py".
+code
